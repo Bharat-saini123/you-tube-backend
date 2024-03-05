@@ -1,3 +1,3 @@
-const SECRET_KEY="sainibharat277@gmail.com1237890";
+const SECRET_KEY=your_secret_key;
 
 export default SECRET_KEY;
